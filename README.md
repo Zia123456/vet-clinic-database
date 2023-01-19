@@ -3,7 +3,6 @@
 > This template should be used for database related projects at Microverse.
 > Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
 
-
 ## Getting Started
 
 This repository includes files with plain SQL that can be used to recreate a database:
@@ -36,7 +35,6 @@ REQUIRED SECTIONS:
 After you're finished please remove all the comments and instructions!
 -->
 
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -63,11 +61,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Vet clinic database] <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**[your_project__name]** is a data base which created by postgresql and includs animal details(name, date of birth, weight in kg, neutered, escape attempts)
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -102,9 +100,9 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[create a table to store animals]**
+- **[insert some data into table]**
+- **[and query data]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -208,17 +206,11 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Zia Bakhteyari**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@zia123456](https://github.com/Zia123456)
+- Twitter: [@zia_bakhteyari](https://twitter.com/Zia_Bakhteyari)
+- LinkedIn: [Zia bakhteyari](https://www.linkedin.com/in/zia-bakhteyari)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
