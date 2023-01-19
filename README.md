@@ -220,9 +220,8 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **more tables**
+- [ ] **insert more data**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -252,7 +251,7 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank Microverse for providing the template.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
