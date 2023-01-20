@@ -32,7 +32,7 @@ SELECT * FROM animals;
 
 /* Tansaction */
 BEGIN;
-DELETE FROM animals WHERE date_of_birth > '2020-01-01';
+DELETE FROM animals WHERE date_of_birth > '2022-01-01';
 SAVEPOINT first_savepoint;
 UPDATE animals SET weight_kg = weight_kg * -1;
 ROLLBACK TO first_savepoint;
