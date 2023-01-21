@@ -82,6 +82,7 @@ INSERT INTO visits (animal_id, vet_id, visit_date) SELECT an.id, ve.id, '2020-08
 INSERT INTO visits (animal_id, vet_id, visit_date) SELECT an.id, ve.id, '2021-04-07' FROM animals an, vets ve WHERE an.name = 'Plantmon' And ve.name = 'Maisy Smith';
 INSERT INTO visits (animal_id, vet_id, visit_date) SELECT an.id, ve.id, '2019-09-29' FROM animals an, vets ve WHERE an.name = 'Squirtle' And ve.name = 'Stephanie Mendez';
 INSERT INTO visits (animal_id, vet_id, visit_date) SELECT an.id, ve.id, '2020-10-03' FROM animals an, vets ve WHERE an.name = 'Angemon' And ve.name = 'Jack Harkness';
+INSERT INTO visits (animal_id, vet_id, visit_date) SELECT an.id, ve.id, '2020-11-04' FROM animals an, vets ve WHERE an.name = 'Angemon' And ve.name = 'Jack Harkness';
 INSERT INTO visits (animal_id, vet_id, visit_date) SELECT an.id, ve.id, '2019-01-24' FROM animals an, vets ve WHERE an.name = 'Boarmon' And ve.name = 'Maisy Smith';
 INSERT INTO visits (animal_id, vet_id, visit_date) SELECT an.id, ve.id, '2019-05-15' FROM animals an, vets ve WHERE an.name = 'Boarmon' And ve.name = 'Maisy Smith';
 INSERT INTO visits (animal_id, vet_id, visit_date) SELECT an.id, ve.id, '2020-02-27' FROM animals an, vets ve WHERE an.name = 'Boarmon' And ve.name = 'Maisy Smith';
