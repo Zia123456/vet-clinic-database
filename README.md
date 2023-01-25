@@ -1,24 +1,11 @@
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
+<a name="readme-top"></a>
 
-Modify this file to match your project and remove sections that don't apply.
+<div align="center">
 
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
+<img src="./assets/murple_logo.png" alt="logo" width="140" height="auto"/>
+<br/>
 
-After you're finished please remove all the comments and instructions!
--->
+</div>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -72,7 +59,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
+## 🚀 Database Schema Diagram <a name="schema-diagram"></a>
+
+<img src="./assets/database_schema_diagram.png" alt="logo"/>
 
 > Add a link to your deployed project.
 
